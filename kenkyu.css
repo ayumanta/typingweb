@@ -1,0 +1,25 @@
+#text {
+    font-size: 4em;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+#startbutton {
+    /*コレ*/display: flex;
+    /*コレ*/justify-content: center;
+
+}
+
+span {
+    transition: all 300ms 0s ease;
+}
+
+.add-blue{
+    color: blue;
+    font-size: 0.5em;
+}
+
+#misstime{
+    color: white;
+}
