@@ -84,7 +84,7 @@ function keyDown(e) {
         setTimeout(function(){
             console.log("I am the third log after 5 seconds");    
             if(!checkTexts.length) createText();
-        },1000);
+        },500);
         
 
         //if(!checkTexts.length) createText();
