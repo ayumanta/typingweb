@@ -37,6 +37,7 @@ function Start() {
     let nowMin  = nowTime.getMinutes(); // 分数を抜き出す
     let msg = "開始時刻：" + nowHour + ":" + nowMin + "　　　　  " + "20分後に終了ボタンを押してください。再びスタートボタンを押すとリセットされてしまいます。";
     document.getElementById("missLog").innerHTML = msg;
+    document.getElementById("misstime").innerHTML = ;
 }
 
 function Finish() {
