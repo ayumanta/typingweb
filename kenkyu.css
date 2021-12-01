@@ -5,6 +5,13 @@
     text-align: center;
 }
 
+#collectcount {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    text-align: center; 
+}
+
 #startbutton {
     /*コレ*/display: flex;
     /*コレ*/justify-content: center;
